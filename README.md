@@ -73,4 +73,4 @@ Penjelasan dataset :
 - Solusi untuk mengurangi durasi perjalanan Transjakarta saat jam sibuk adalah dengan meningkatkan frekuensi layanan dan memperbanyak armada bus.
 
 # Link Tableau
-**[Tableau](https://public.tableau.com/views/TransjakartaAnalysis_17527741748260/HomeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau](https://public.tableau.com/views/TransjakartaAnalysis_17527741748260/HomeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
